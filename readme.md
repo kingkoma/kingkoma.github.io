@@ -1,3 +1,3 @@
 ### Personal Website
 
-`GitHub_Pages` + `Hexo` + Theme:material
+`GitHub_Pages` + `Hexo` + Theme: `material`
